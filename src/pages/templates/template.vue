@@ -4,7 +4,7 @@
     <main class="row">
       <div class="col-md-12 p-5">
         <div class="position-relative">
-          <h2 class="ver position-absolute fs-2  animate__animated animate__fadeInDown" style="top: 7%; left: 38%">
+          <h2 class="ver position-absolute fs-2  animate__animated animate__fadeInDown" style="top: 7%; left: 40%">
             {{ bookname }}
           </h2>
           <div class="">

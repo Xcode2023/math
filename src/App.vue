@@ -1,5 +1,5 @@
 <template>
-  <Star v-if="stores.startstatus"></Star>
+  <!-- <Star v-if="stores.startstatus"></Star> -->
   <t-layout v-if="dispaly">
     <t-layout ref="canvas_snow">
       <t-affix ref="affix">
